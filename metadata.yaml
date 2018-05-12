@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15876#The-Unpopular-Review-Volume-II-Number-3
 gutenberg_bookshelf: The Unpopular Review
 gutenberg_issued: '2005-05-22'
 gutenberg_type: Text
